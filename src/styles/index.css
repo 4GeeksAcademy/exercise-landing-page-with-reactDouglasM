@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bg-custom-gray1{
+    background-color: rgb(206, 201, 201);
+}
+
+.bg-custom-gray2{
+    background-color: rgba(22, 22, 22, 0.87);
+}

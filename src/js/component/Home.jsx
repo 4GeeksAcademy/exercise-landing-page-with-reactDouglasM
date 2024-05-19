@@ -12,33 +12,33 @@ const Home = () => {
 	return (
 		<div className="d-flex justify-content-center">
 			<div>
-				<NavBar/>
+				<NavBar />
 				<div className="mx-5">
-					<Header/>
+					<Header />
 					<div className="row">
 						<div className="col-lg-3 col-md-6 col-sm-12">
 							<div className="d-flex justify-content-center">
-								<Card/>
+								<Card />
 							</div>
 						</div>
 						<div className="col-lg-3 col-md-6 col-sm-12">
 							<div className="d-flex justify-content-center">
-								<Card/>
+								<Card />
 							</div>
 						</div>
 						<div className="col-lg-3 col-md-6 col-sm-12">
 							<div className="d-flex justify-content-center">
-								<Card/>
+								<Card />
 							</div>
 						</div>
 						<div className="col-lg-3 col-md-6 col-sm-12">
 							<div className="d-flex justify-content-center">
-								<Card/>
+								<Card />
 							</div>
 						</div>
 					</div>
 				</div>
-				<Footer/>
+				<Footer />
 			</div>
 		</div>
 	);

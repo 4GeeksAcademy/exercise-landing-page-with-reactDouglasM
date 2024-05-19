@@ -1,7 +1,7 @@
 import React from "react";
 
-const Header = () =>{
-    return(
+const Header = () => {
+  return (
     <div className="card w-100 my-2">
       <div className="card-body bg-light py-5">
         <h1 className="card-title display-1">A Warm Welcome!</h1>
@@ -9,6 +9,7 @@ const Header = () =>{
         <a href="#" className="btn btn-primary btn-lg fs-3">Call to action!</a>
       </div>
     </div>
-)};
+  )
+};
 
 export default Header;

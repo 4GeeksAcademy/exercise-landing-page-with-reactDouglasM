@@ -17,3 +17,8 @@
 .bg-custom-gray2{
     background-color: rgba(22, 22, 22, 0.87);
 }
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2021/03/08/18/11/camouflage-6079754_1280.png);
+}
+
